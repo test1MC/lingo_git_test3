@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalIndex
+  SavedSource="file:///C:/Users/dspencer/Documents/My Translated Projects/NewProject317.liprjf/Target/Output/dspencer/Temporary/GlobalIndex v.6.catapultindex">
+  <IndexEntry>
+    <Entries />
+    <Links />
+    <SeeAlsoLinks />
+    <IndexControlLinks />
+    <SortAsLinks />
+  </IndexEntry>
+  <SourceUrls>
+    <Url
+      Source="Topic.htm" />
+    <Url
+      Source="Topic.htm.skl" />
+    <Url
+      Source="Topic.htm.xlf" />
+    <Url
+      Source="another/and one more.htm" />
+    <Url
+      Source="another/and one more.htm.skl" />
+    <Url
+      Source="another/and one more.htm.xlf" />
+    <Url
+      Source="another/sub/lol.htm" />
+    <Url
+      Source="another/sub/lol.htm.skl" />
+    <Url
+      Source="another/sub/lol.htm.xlf" />
+    <Url
+      Source="Folder renamed/NewTopic.htm" />
+    <Url
+      Source="Folder renamed/NewTopic.htm.skl" />
+    <Url
+      Source="Folder renamed/NewTopic.htm.xlf" />
+    <Url
+      Source="Folder renamed/Don/Spenc.htm" />
+    <Url
+      Source="Folder renamed/Don/Spenc.htm.skl" />
+    <Url
+      Source="Folder renamed/Don/Spenc.htm.xlf" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl.skl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css.skl" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.skl" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.xlf" />
+  </SourceUrls>
+  <SourceLinkSetUrls>
+    <Url
+      Source="Advanced/Index Link Sets/IndexLinkSet.flixl" />
+  </SourceLinkSetUrls>
+  <UsedUrls />
+  <UsedIndexControlUrls />
+</CatapultGlobalIndex>
